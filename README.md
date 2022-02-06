@@ -1,5 +1,5 @@
 - Hello, world! My name is Eric.
-- Here is where you can view my completed projects.
+- Here is where you can view my projects that I've been working on.
 - I'm currently working on projects using Java.
 
 <!---
